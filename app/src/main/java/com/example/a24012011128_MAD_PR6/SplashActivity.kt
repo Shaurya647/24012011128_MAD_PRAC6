@@ -1,4 +1,4 @@
-package com.example.a24012011122_mad_pr6
+package com.example.a24012011128_MAD_PR6
 
 
 import android.content.Intent
