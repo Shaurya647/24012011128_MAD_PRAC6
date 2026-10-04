@@ -31,7 +31,7 @@ An Android application developed using Kotlin and XML to demonstrate different t
 
 |  |  |  |
 | :---: | :---: | :---: |
-| <img src="Screenshot/toast_1.png" width="250"> | <img src="Screenshot/toast_2.png" width="250"> | <img src="Screenshot/toast_3.png" width="250"> |
+| <img src="ss/6.1.png" width="250"> | <img src="ss/6.2.png" width="250"> | <img src="ss/6.3.png" width="250"> |
 
 ---
 
