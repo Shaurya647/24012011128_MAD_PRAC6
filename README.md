@@ -27,15 +27,13 @@ An Android application developed using Kotlin and XML to demonstrate different t
 - AnimationDrawable
 - Android Animation API
 
-## Screenshots
+#Screenshots
 
-### Splash Screen
+|  |  |  |
+| :---: | :---: | :---: |
+| <img src="Screenshot/toast_1.png" width="250"> | <img src="Screenshot/toast_2.png" width="250"> | <img src="Screenshot/toast_3.png" width="250"> |
 
-![Splash Screen](screenshots/splash_screen.png)
-
-### Main Screen
-
-![Main Screen](screenshots/main_screen.png)
+---
 
 ## Project Structure
 
